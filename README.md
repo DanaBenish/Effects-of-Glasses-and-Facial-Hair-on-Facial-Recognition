@@ -1,4 +1,4 @@
-#Biometrics and Facial Recognition
+# Biometrics and Facial Recognition
 
 Biometrics refers to using measurable physical characteristics or behavioral traits to identify or authenticate someone’s identity. Common biometric traits include fingerprints, facial features, gait, and more. One of the most widely used forms of biometrics is facial recognition, which is implemented in devices like smartphones to authenticate users. Facial recognition systems work by collecting and comparing measurable aspects of a person’s face to pre-existing templates. These templates, created from images, help the system identify or verify individuals by comparing the features of their face.
 
